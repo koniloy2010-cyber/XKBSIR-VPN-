@@ -1,0 +1,8 @@
+{
+  "name": "AI Audio Effects - High Quality Mic & Sound System",
+  "description": "Advanced Real-Time AI Audio Effects and Mic Studio featuring 4 High-Quality Audio Boxes, Voice Sync Modulation, 5-Band Equalizer, Voice Message Recorder, and Automatic Call Sound Processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
